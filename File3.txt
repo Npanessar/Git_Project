@@ -1,1 +1,5 @@
-file 3 demo
+<<<<<<< .mine
+this file should be modified
+=======
+second file 
+>>>>>>> .theirs
